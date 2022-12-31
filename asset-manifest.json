@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/claim-cal/static/css/main.7cdcd005.css",
+    "main.js": "/claim-cal/static/js/main.bd499176.js",
+    "index.html": "/claim-cal/index.html",
+    "main.7cdcd005.css.map": "/claim-cal/static/css/main.7cdcd005.css.map",
+    "main.bd499176.js.map": "/claim-cal/static/js/main.bd499176.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cdcd005.css",
+    "static/js/main.bd499176.js"
+  ]
+}
