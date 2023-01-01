@@ -71,7 +71,7 @@ const App = () => {
           <Box
             component="form"
             sx={{
-              '& > :not(style)': { m: 0, width: '32ch' },
+              '& > :not(style)': { m: 0, width: '30ch' },
             }}
             noValidate
             autoComplete="off"
