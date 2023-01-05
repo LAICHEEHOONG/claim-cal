@@ -86,16 +86,16 @@ const App = () => {
                 1st year claim price: {cal1()}
               </Typography>
               <Typography variant="h6" gutterBottom style={{ color: `${cal2() < 0 ? 'red' : 'black'}` }} >
-                2st year claim price: {cal2()}
+                2nd year claim price: {cal2()}
               </Typography>
               <Typography variant="h6" gutterBottom style={{ color: `${cal3() < 0 ? 'red' : 'black'}` }} >
-                3st year claim price: {cal3()}
+                3rd year claim price: {cal3()}
               </Typography>
               <Typography variant="h6" gutterBottom style={{ color: `${cal4() < 0 ? 'red' : 'black'}` }} >
-                4st year claim price: {cal4()}
+                4th year claim price: {cal4()}
               </Typography>
               <Typography variant="h6" gutterBottom style={{ color: `${cal5() < 0 ? 'red' : 'black'}` }} >
-                5st year claim price: {cal5()}
+                5th year claim price: {cal5()}
               </Typography>
             </div>
             <TextField
@@ -103,16 +103,16 @@ const App = () => {
               id="outlined-basic" label="1st  Claim" variant="standard" type="number" />
             <TextField
               onChange={claim2}
-              id="outlined-basic" label="2st  Claim" variant="standard" type="number" />
+              id="outlined-basic" label="2nd  Claim" variant="standard" type="number" />
             <TextField
               onChange={claim3}
-              id="outlined-basic" label="3st  Claim" variant="standard" type="number" />
+              id="outlined-basic" label="3rd  Claim" variant="standard" type="number" />
             <TextField
               onChange={claim4}
-              id="outlined-basic" label="4st  Claim" variant="standard" type="number" />
+              id="outlined-basic" label="4th  Claim" variant="standard" type="number" />
             <TextField
               onChange={claim5}
-              id="outlined-basic" label="5st  Claim" variant="standard" type="number" />
+              id="outlined-basic" label="5th  Claim" variant="standard" type="number" />
           </Box>
           <Box
             component="form"
