@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/claim-cal/static/css/main.80fc5d75.css",
-    "main.js": "/claim-cal/static/js/main.5ada96d2.js",
+    "main.js": "/claim-cal/static/js/main.6fe19673.js",
     "index.html": "/claim-cal/index.html",
     "main.80fc5d75.css.map": "/claim-cal/static/css/main.80fc5d75.css.map",
-    "main.5ada96d2.js.map": "/claim-cal/static/js/main.5ada96d2.js.map"
+    "main.6fe19673.js.map": "/claim-cal/static/js/main.6fe19673.js.map"
   },
   "entrypoints": [
     "static/css/main.80fc5d75.css",
-    "static/js/main.5ada96d2.js"
+    "static/js/main.6fe19673.js"
   ]
 }
